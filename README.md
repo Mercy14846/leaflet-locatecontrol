@@ -237,7 +237,7 @@ Run `npm run:fix` to automatically fix style and linting issues.
 
 ## Making a release (only core developer)
 
-A new version is released with `npm run bump:minor`. Then push the new code with `git push && git push --tags` and publish to npm with `npm publish`.
+A new version is released with `npm run bump:minor`. Then push the latest code with `git push && git push --tags` and publish to npm with `npm publish`.
 
 ### Terms
 
